@@ -8,14 +8,13 @@ class SolidRacttangle{
             }
             System.err.println("");
         }
-}
-    
+    }  
 }
 
 /*
- * 
- *        * * * *
- *        * * * *
- *        * * * *
- *        * * * *
+ 
+        * * * *
+        * * * *
+        * * * *
+        * * * *
  */
